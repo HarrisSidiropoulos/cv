@@ -1,11 +1,11 @@
 # Harris Sidiropoulos
-## Team lead / Senior frontend engineer
+## Team lead / Senior front-end engineer
 
 As a senior front-end engineer with over 15 years of experience, I specialize in building high-performing, user-friendly, and maintainable web applications. I am passionate about creating solutions that meet the needs of users and businesses alike. I am also a strong advocate for continuous learning and improvement, and I am always looking for new ways to expand my knowledge and skills.
 
 ## Work
 
-### Team lead / Senior frontend engineer at Dazn (Amsterdam)
+### Team lead / Senior front-end engineer at Dazn (Amsterdam)
 July 2022 - Present
 
 > DAZN is a global sports streaming service that offers live and on-demand content.
@@ -17,7 +17,7 @@ July 2022 - Present
 - Developed a Next.js application that generates static pages by fetching content from Contentful headless CMS.
 - Developed GitHub workflows to automate deployments and package releases.
 
-### Senior frontend engineer at Travix (Amsterdam)
+### Senior front-end engineer at Travix (Amsterdam)
 November 2018 - June 2022
 
 > Travix is a global online travel company operating in 35 countries from offices in the Netherlands, India ...
@@ -25,7 +25,7 @@ November 2018 - June 2022
 - Worked on the checkout domain with a strong focus on payments.
 - Actively participated in the performance guild helping to improve the performance of the platform.
 - Organized and led learning sessions about observables and rxjs.
-- Helped onboard the new frontend developers.
+- Helped onboard the new front-end developers.
 - Mentored one junior developer.
 - Collaborated with other developers to create a design system with a UI component library.
 - Collaborated with other developers to create a service responsible to gather and process all the data from multiple internal services, reducing the amount of data size and HTTP calls from the client.
@@ -54,7 +54,7 @@ November 2018 - June 2022
 
 ## Skills
 
-- Frontend Technologies: HTML, CSS, JavaScript, Typescript, React, Angular, Styled components, CSS modules
+- front-end Technologies: HTML, CSS, JavaScript, Typescript, React, Angular, Styled components, CSS modules
 - Backend Technologies: Node.js, Express.js, PHP
 - Tools: Contentful, Git, CLI, Adobe Air, Electron, Nx, Lerna, NPM, PNPM
 - E2E testing: Playwright, Cypress, Storybook interactions, Automated Accessibility testing using AXE 
