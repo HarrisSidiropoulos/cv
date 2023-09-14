@@ -1,11 +1,11 @@
 # Harris Sidiropoulos
-## Team lead / Senior front-end engineer
+## Team Lead / Senior Frontend Engineer
 
-As a senior front-end engineer with over 15 years of experience, I specialize in building high-performing, user-friendly, and maintainable web applications. I am passionate about creating solutions that meet the needs of users and businesses alike. I am also a strong advocate for continuous learning and improvement, and I am always looking for new ways to expand my knowledge and skills.
+As a Senior Frontend Engineer with over 15 years of experience, I specialize in building high-performing, user-friendly, and maintainable web applications. I am passionate about creating solutions that meet the needs of users and businesses alike. I am also a strong advocate for continuous learning and improvement, and I am always looking for new ways to expand my knowledge and skills.
 
 ## Work
 
-### Team lead / Senior front-end engineer at Dazn (Amsterdam)
+### Team Lead / Senior Frontend Engineer at Dazn (Amsterdam)
 July 2022 - Present
 
 > DAZN is a global sports streaming service that offers live and on-demand content.
@@ -17,7 +17,7 @@ July 2022 - Present
 - Developed a Next.js application that generates static pages by fetching content from Contentful headless CMS.
 - Developed GitHub workflows to automate deployments and package releases.
 
-### Senior front-end engineer at Travix (Amsterdam)
+### Senior Frontend Engineer at Travix (Amsterdam)
 November 2018 - June 2022
 
 > Travix is a global online travel company operating in 35 countries from offices in the Netherlands, India ...
@@ -25,12 +25,12 @@ November 2018 - June 2022
 - Worked on the checkout domain with a strong focus on payments.
 - Actively participated in the performance guild helping to improve the performance of the platform.
 - Organized and led learning sessions about observables and rxjs.
-- Helped onboard the new front-end developers.
+- Helped onboard the new Frontend developers.
 - Mentored one junior developer.
 - Collaborated with other developers to create a design system with a UI component library.
 - Collaborated with other developers to create a service responsible to gather and process all the data from multiple internal services, reducing the amount of data size and HTTP calls from the client.
 
-### Team lead at Polyptychon (Thessaloniki)
+### Team Lead at Polyptychon (Thessaloniki)
 2014 - November 2018
 
 > Polyptychon is a cultural consultancy firm in Greece that manages cultural projects.
@@ -41,22 +41,26 @@ November 2018 - June 2022
 - Led the development of an interactive documentary for the ministry of culture in Greece.
 - Developed an Interactive Map for the Byzantine Museum of Kastoria. An Electron application was installed in three rooms inside the museum. Visitors can interact with the map from a distance with gestures using the Microsoft Kinect controller.
 
-### Full stack developer - Freelance, (Thessaloniki)
+### Full Stack Developer - Freelance, (Thessaloniki)
 2006 - 2014
 
 - Developed many websites and applications for local businesses and galleries.
 - Developed a Media Manager Application for the European Centre of Byzantine and Post-Byzantine Monuments. Media Manager is an Adobe Air Application with PHP MySQL backend.
 
-### Teaching professional - AAS College, (Thessaloniki)
+### Teaching Professional - AAS College, (Thessaloniki)
 2006 - 2014
 
 - Working as a teaching professional helped me to develop further my soft skills and to understand in depth a lot of the skills required for teaching.
 
+## Education
+
+- Paster College, Thessaloniki
+
 ## Skills
 
-- front-end Technologies: HTML, CSS, JavaScript, Typescript, React, Angular, Styled components, CSS modules
+- Frontend Technologies: HTML, CSS, JavaScript, Typescript, React, Angular, Styled components, CSS modules
 - Backend Technologies: Node.js, Express.js, PHP
-- Tools: Contentful, Git, CLI, Adobe Air, Electron, Nx, Lerna, NPM, PNPM
+- Tools: Contentful, Git, CLI, Electron, Nx, Lerna, NPM, PNPM
 - E2E testing: Playwright, Cypress, Storybook interactions, Automated Accessibility testing using AXE 
 - Github Actions
 - Semantic release
