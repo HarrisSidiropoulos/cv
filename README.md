@@ -6,7 +6,7 @@ As a Senior Frontend Engineer with over 15 years of experience, I specialize in 
 ## Work
 
 ### Team Lead / Senior Frontend Engineer at Dazn (Amsterdam)
-July 2022 - Present
+July 2021 - Present
 
 > DAZN is a global sports streaming service that offers live and on-demand content.
 
@@ -20,7 +20,7 @@ July 2022 - Present
 - Developed GitHub workflows to automate deployments and package releases.
 
 ### Senior Frontend Engineer at Travix (Amsterdam)
-November 2018 - June 2022
+November 2017 - June 2021
 
 > Travix is a global online travel company operating in 35 countries from offices in the Netherlands, India ...
 
@@ -33,7 +33,7 @@ November 2018 - June 2022
 - Collaborated with other developers to create a service responsible to gather and process all the data from multiple internal services, reducing the amount of data size and HTTP calls from the client.
 
 ### Team Lead at Polyptychon (Thessaloniki)
-2014 - November 2018
+2014 - November 2017
 
 > Polyptychon is a cultural consultancy firm in Greece that manages cultural projects.
 
@@ -56,7 +56,7 @@ November 2018 - June 2022
 
 ## Education
 
-- Paster College, Thessaloniki
+- Multimedia Applications development Certificate - Paster, Thessaloniki, Greece
 
 ## Skills
 
