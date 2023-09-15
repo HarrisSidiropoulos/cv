@@ -50,6 +50,7 @@ jobs:
         run: |
           pnpm prebuild
           pnpm build
+          pnpm postbuild
         shell: bash
 
       - name: Setup Pages
