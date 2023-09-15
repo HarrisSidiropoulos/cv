@@ -19,6 +19,7 @@
     "document": {
       "title": "Harris Sidiropoulos - CV",
       "description": "Senior front-end engineer with over 15 years of experience.",
+      "style": "#harris-sidiropoulos { margin-top: 25px !important; }",
       "meta": [
         {
           "description": "Senior front-end engineer with over 15 years of experience."
@@ -28,7 +29,7 @@
         }
       ]
     },
-    "favicon": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>",
+    "favicon": "https://github.githubassets.com/favicons/favicon.svg",
     "github-corners": "https://github.com/harrissidiropoulos",
     "reurls": {
       "README-zh.md": "index.zh.html",
