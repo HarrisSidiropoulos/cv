@@ -10,7 +10,6 @@
   "scripts": {
     "prebuild": "mkdirp -p dist",
     "build": "markdown-to-html --output dist/index.html",
-    "postbuild": "sed 's|https://github.com/jaywcjlove/markdown-to-html-cli|https://github.com/harrissidiropoulos|g' dist/index.html > temp && mv temp dist/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -30,7 +29,7 @@
       ]
     },
     "favicon": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>",
-    "github-corners": "https://github.com/jaywcjlove/markdown-to-html-cli",
+    "github-corners": "https://github.com/harrissidiropoulos",
     "reurls": {
       "README-zh.md": "index.zh.html",
       "README.md": "index.html"
