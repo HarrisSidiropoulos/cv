@@ -11,6 +11,8 @@ July 2022 - Present
 > DAZN is a global sports streaming service that offers live and on-demand content.
 
 - Created a content type management system for Contentful to improve governance and observability of the content model.
+- Designed and implemented a blue/green deployment strategy for Contentful content types to ensure a smooth and reliable deployment process.
+- Built a system that automates the creation of backend and frontend acceptance environments.
 - Developed a command-line interface (CLI) tool to generate a graph of the Content Model.
 - Developed a Live Preview Application to visualize the changes of the Contentful entries.
 - Led and collaborated with other developers to create a design system that would ensure the consistent branding of DAZN across multiple projects and domains.
