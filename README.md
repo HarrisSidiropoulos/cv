@@ -5,8 +5,15 @@ As a Senior Frontend Engineer with over 15 years of experience, I specialize in 
 
 ## Work
 
+### Senior Frontend Engineer at TMNL (Amsterdam)
+November 2023 - Present
+
+> TMNL is a an organization fighting financial crime in the Netherlands.
+
+- Developed an application using the vis.js library that enables bank investigators to visualize the financial transaction networks of high-risk clients.
+
 ### Team Lead / Senior Frontend Engineer at Dazn (Amsterdam)
-July 2021 - Present
+July 2021 - November 2023
 
 > DAZN is a global sports streaming service that offers live and on-demand content.
 
