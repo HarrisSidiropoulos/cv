@@ -1,4 +1,5 @@
 # Harris Sidiropoulos
+
 ## Team Lead / Senior Frontend Engineer
 
 As a Senior Frontend Engineer with over 15 years of experience, I specialize in building high-performing, user-friendly, and maintainable web applications. I am passionate about creating solutions that meet the needs of users and businesses alike. I am also a strong advocate for continuous learning and improvement, and I am always looking for new ways to expand my knowledge and skills.
@@ -6,6 +7,7 @@ As a Senior Frontend Engineer with over 15 years of experience, I specialize in 
 ## Work
 
 ### Senior Frontend Engineer at TMNL (Amsterdam)
+
 November 2023 - Present
 
 > TMNL is a an organization fighting financial crime in the Netherlands.
@@ -13,6 +15,7 @@ November 2023 - Present
 - Developed an application using the vis.js library that enables bank investigators to visualize the financial transaction networks of high-risk clients.
 
 ### Team Lead / Senior Frontend Engineer at Dazn (Amsterdam)
+
 July 2021 - November 2023
 
 > DAZN is a global sports streaming service that offers live and on-demand content.
@@ -27,6 +30,7 @@ July 2021 - November 2023
 - Developed GitHub workflows to automate deployments and package releases.
 
 ### Senior Frontend Engineer at Travix (Amsterdam)
+
 November 2017 - June 2021
 
 > Travix is a global online travel company operating in 35 countries from offices in the Netherlands, India ...
@@ -40,6 +44,7 @@ November 2017 - June 2021
 - Collaborated with other developers to create a service responsible to gather and process all the data from multiple internal services, reducing the amount of data size and HTTP calls from the client.
 
 ### Team Lead at Polyptychon (Thessaloniki)
+
 2014 - November 2017
 
 > Polyptychon is a cultural consultancy firm in Greece that manages cultural projects.
@@ -51,26 +56,28 @@ November 2017 - June 2021
 - Developed an Interactive Map for the Byzantine Museum of Kastoria. An Electron application was installed in three rooms inside the museum. Visitors can interact with the map from a distance with gestures using the Microsoft Kinect controller.
 
 ### Full Stack Developer - Freelance, (Thessaloniki)
+
 2006 - 2014
 
 - Developed many websites and applications for local businesses and galleries.
 - Developed a Media Manager Application for the European Centre of Byzantine and Post-Byzantine Monuments. Media Manager is an Adobe Air Application with PHP MySQL backend.
 
 ### Teaching Professional - AAS College, (Thessaloniki)
+
 2006 - 2014
 
 - Working as a teaching professional helped me to develop further my soft skills and to understand in depth a lot of the skills required for teaching.
 
 ## Education
 
-- Multimedia Applications development Certificate - Paster, Thessaloniki, Greece
+- Private School of Advanced Vocational Training (Multimedia Applications development Certificate) - Paster, Thessaloniki, Greece
 
 ## Skills
 
 - Frontend Technologies: HTML, CSS, JavaScript, Typescript, React, Angular, Styled components, CSS modules
 - Backend Technologies: Node.js, Express.js, PHP
 - Tools: Contentful, Git, CLI, Electron, Nx, Lerna, NPM, PNPM
-- E2E testing: Playwright, Cypress, Storybook interactions, Automated Accessibility testing using AXE 
+- E2E testing: Playwright, Cypress, Storybook interactions, Automated Accessibility testing using AXE
 - Github Actions
 - Semantic release
 - Design Systems and UI Component Libraries
