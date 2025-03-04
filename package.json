@@ -4,6 +4,7 @@
   "description": "As a senior front-end engineer with over 15 years of experience, I specialize in building high-performing, user-friendly, and maintainable web applications. I am passionate about creating solutions that meet the needs of users and businesses alike. I am also a strong advocate for continuous learning and improvement, and I am always looking for new ways to expand my knowledge and skills.",
   "main": "index.js",
   "dependencies": {
+    "katex": "0.16.10",
     "markdown-to-html-cli": "^5.0.3",
     "mkdirp": "^3.0.1"
   },

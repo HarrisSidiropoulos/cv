@@ -11,6 +11,9 @@ importers:
 
   .:
     dependencies:
+      katex:
+        specifier: 0.16.10
+        version: 0.16.10
       markdown-to-html-cli:
         specifier: ^5.0.3
         version: 5.0.3
