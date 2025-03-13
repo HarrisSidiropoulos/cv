@@ -70,7 +70,7 @@ November 2017 - June 2021
 
 ## Education
 
-- Private School of Advanced Vocational Training (Degree in Computer Science) - Paster, Thessaloniki, Greece
+- Paster Private School of Advanced Vocational Training, Thessaloniki, Greece – Diploma in Computer Science
 
 ## Skills
 
