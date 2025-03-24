@@ -1,6 +1,6 @@
-Harris Sidiropoulos
+# Harris Sidiropoulos
 
-Team Lead / Senior Frontend Engineer
+## Team Lead / Senior Frontend Engineer
 
 As a Senior Frontend Engineer with over 15 years of experience, I specialize in building high-performing, user-friendly, and maintainable web applications. I am passionate about creating solutions that meet the needs of users and businesses alike. I am also a strong advocate for continuous learning and improvement, and I am always looking for new ways to expand my knowledge and skills.
 
@@ -10,7 +10,7 @@ As a Senior Frontend Engineer with over 15 years of experience, I specialize in 
 
 ### Senior Frontend Engineer at TMNL (Amsterdam)
 
-**November 2023 - Present**  
+**November 2023 - January 2025**  
 TMNL is an organization fighting financial crime in the Netherlands.
 
 - Maintained and developed multiple Next.js applications used by special case investigators to monitor financial transactions for potential money laundering activities.
