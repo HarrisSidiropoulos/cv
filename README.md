@@ -74,6 +74,7 @@ Polyptychon is a cultural consultancy firm in Greece that manages cultural proje
 
 - Developed a multi-tenant web application using **Next.js**, focusing on local-first data storage.
 - Implemented **offline-first capabilities** to ensure reliability even without internet access.
+- Integrated Turso, a distributed database, for efficient local-first data synchronization.
 - Designed a **scalable multi-tenant architecture** with tenant-specific data segregation.
 
 ---
