@@ -13,29 +13,29 @@ As a Senior Frontend Engineer with over 15 years of experience, I specialize in 
 **November 2023 - January 2025**  
 TMNL is an organization fighting financial crime in the Netherlands.
 
-- Maintained and developed multiple Next.js applications used by special case investigators to monitor financial transactions for potential money laundering activities.
-- Developed an application using the vis.js library that enables bank investigators to visualize the financial transaction networks of high-risk clients.
+- Developed and maintained critical investigative tools in Next.js that enabled financial crime units to detect and investigate suspicious transaction patterns more effectively, directly supporting national efforts to combat money laundering.
+- Conducted an experiment by building an MVP with vis.js, exploring new ways for bank investigators to analyze financial transaction networks of high-risk clients.
 
 ### Team Lead / Senior Frontend Engineer at DAZN (Amsterdam)
 
 **July 2021 - November 2023**  
 DAZN is a global sports streaming service that offers live and on-demand content.
 
-- Built a custom Contentful management system that streamlined content governance and gave product and engineering teams clearer oversight over the content model — reducing errors and speeding up releases by 50%.
+- Led a collaborative design system initiative, unifying UI across projects and saving design and development hours by standardizing reusable components.
+- Created a Live Preview Application to visualize changes in Contentful entries, enabling editors to view updates in real-time.
+- Led the development of a custom Contentful management system that improved content governance, increased model transparency for product and engineering teams, and accelerated release cycles by reducing errors.
 - Designed and implemented a blue/green deployment strategy for Contentful content types to ensure a smooth and reliable deployment process.
-- Built a system that automates the creation of backend and frontend acceptance environments.
-- Created a CLI tool that visualized Contentful’s schema, helping teams debug faster and onboard developers with a clearer mental model of the system.
-- Developed a Live Preview Application to visualize the changes of the Contentful entries helping editors to see the changes in real-time.
-- Spearheaded a cross-team design system initiative, unifying UI across projects and saving design/dev hours by standardizing reusable components.
-- Standardize page creation by introducing a new consistent approach, which became the default method and significantly reduced existing variations.
-- Developed GitHub workflows to automate deployments and package releases.
+- Developed a system that automates the creation of backend and frontend acceptance environments.
+- Developed a CLI tool that visualizes Contentful's schema, enabling teams to debug more quickly and help onboard developers with a clearer mental model of the system.
+- Standardize page creation by implementing a consistent approach, which became the default method and significantly reduced existing variations.
+- Created GitHub workflows to automate deployments and package releases.
 
 ### Senior Frontend Engineer at Travix (Amsterdam)
 
 **November 2017 - June 2021**  
 Travix is a global online travel company operating in 35 countries.
 
-- Worked on the checkout domain with a strong focus on payments.
+- Worked on the checkout funnel, integrating and enhancing multiple payment options to ensure multi-country support and scalability.
 - Actively participated in the performance guild, helping to improve platform performance.
 - Organized and led learning sessions about observables and RxJS.
 - Helped onboard new Frontend developers and mentored a junior developer.
