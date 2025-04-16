@@ -21,12 +21,12 @@ TMNL is an organization fighting financial crime in the Netherlands.
 **July 2021 - November 2023**  
 DAZN is a global sports streaming service that offers live and on-demand content.
 
-- Created a content type management system for Contentful to improve governance and observability of the content model.
+- Built a custom Contentful management system that streamlined content governance and gave product and engineering teams clearer oversight over the content model — reducing errors and speeding up releases by 50%.
 - Designed and implemented a blue/green deployment strategy for Contentful content types to ensure a smooth and reliable deployment process.
 - Built a system that automates the creation of backend and frontend acceptance environments.
-- Developed a command-line interface (CLI) tool to generate a graph of the Content Model.
-- Developed a Live Preview Application to visualize the changes of the Contentful entries.
-- Led and collaborated with other developers to create a design system that ensured consistent branding across multiple projects and domains.
+- Created a CLI tool that visualized Contentful’s schema, helping teams debug faster and onboard developers with a clearer mental model of the system.
+- Developed a Live Preview Application to visualize the changes of the Contentful entries helping editors to see the changes in real-time.
+- Spearheaded a cross-team design system initiative, unifying UI across projects and saving design/dev hours by standardizing reusable components.
 - Developed a Next.js application that generates static pages by fetching content from Contentful headless CMS.
 - Developed GitHub workflows to automate deployments and package releases.
 
