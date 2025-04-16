@@ -27,7 +27,7 @@ DAZN is a global sports streaming service that offers live and on-demand content
 - Created a CLI tool that visualized Contentful’s schema, helping teams debug faster and onboard developers with a clearer mental model of the system.
 - Developed a Live Preview Application to visualize the changes of the Contentful entries helping editors to see the changes in real-time.
 - Spearheaded a cross-team design system initiative, unifying UI across projects and saving design/dev hours by standardizing reusable components.
-- Developed a Next.js application that generates static pages by fetching content from Contentful headless CMS.
+- Standardize page creation by introducing a new consistent approach, which became the default method and significantly reduced existing variations.
 - Developed GitHub workflows to automate deployments and package releases.
 
 ### Senior Frontend Engineer at Travix (Amsterdam)
